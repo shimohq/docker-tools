@@ -1,0 +1,32 @@
+{
+  "name": "shimo-docker-tools",
+  "version": "1.0.0",
+  "description": "some awesome docker tools",
+  "main": "index.js",
+  "bin": {
+    "dtools": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimohq/docker-tools.git"
+  },
+  "keywords": [
+    "docker",
+    "tools"
+  ],
+  "author": "TomWan <wanmingtom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shimohq/docker-tools/issues"
+  },
+  "homepage": "https://github.com/shimohq/docker-tools#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "lodash": "^4.17.4",
+    "wildstring": "1.0.9"
+  }
+}
