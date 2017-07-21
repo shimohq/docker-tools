@@ -1,6 +1,6 @@
 {
   "name": "shimo-docker-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "some awesome docker tools",
   "main": "index.js",
   "bin": {
